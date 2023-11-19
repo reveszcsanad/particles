@@ -32,9 +32,6 @@
 # Compiled Java bytecode
 *.class
 
-# Compiled SASS/SCSS
-*.css
-
 # Package files
 *.jar
 *.war
@@ -54,7 +51,6 @@
 *.project
 *.tmproj
 *.tmtags
-.idea/
 
 # SonarQube
 sonar-project.properties
